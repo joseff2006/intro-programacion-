@@ -1,0 +1,10 @@
+
+
+Cuando empecé con la introducción a la programación, fue como abrir una puerta a un mundo completamente nuevo.
+Al principio todo parecía complicado—esas líneas de código, los errores que no entendía, y la lógica detrás de 
+cada instrucción. Pero poco a poco fui entendiendo que programar no es solo escribir comandos, sino aprender a 
+pensar de forma estructurada, a resolver problemas paso a paso. Me sorprendió cómo algo tan abstracto puede 
+convertirse en algo útil y concreto, como automatizar tareas o crear herramientas que realmente ayudan. Más que 
+aprender un lenguaje, sentí que estaba entrenando mi mente para ver soluciones donde antes solo veía obstáculos.
+
+
