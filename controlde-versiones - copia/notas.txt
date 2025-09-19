@@ -1,0 +1,8 @@
+Un controlador de versiones es, en esencia, una herramienta que me permite llevar
+un historial completo de los cambios que hago en mis archivos y proyectos. Con él 
+puedo ver qué modifiqué, cuándo lo hice y por qué, lo que me da la posibilidad de 
+regresar a versiones anteriores si algo sale mal. También entendí que no se trata 
+solo de guardar copias, sino de tener un sistema que organiza el trabajo y facilita
+colaborar con otras personas sin que se pierda nada. En pocas palabras, un controlador
+de versiones me ayuda a trabajar de manera más ordenada, segura y eficiente, tanto si
+estoy solo como si formo parte de un equipo.
