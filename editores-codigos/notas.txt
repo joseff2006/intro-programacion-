@@ -1,0 +1,17 @@
+
+Al comparar Visual Studio Code, Sublime Text y Atom, me di cuenta de que cada editor tiene 
+su propia forma de ayudarte, dependiendo de lo que estés buscando. VS Code es como una navaja
+suiza: tiene de todo, desde integración con Git hasta una terminal incorporada, y sus extensiones
+lo hacen súper adaptable. Pero también aprendí que tanta funcionalidad puede hacer que se vuelva
+pesado, sobre todo si tu computadora no tiene muchos recursos. En cambio, Sublime Text es rápido
+como un rayo. Me gustó que no se complica, va directo al grano y funciona muy bien en proyectos 
+grandes o en equipos más modestos. Eso sí, le faltan algunas cosas que VS Code tiene de fábrica,
+como el depurador o la terminal.
+
+Atom me pareció más relajado, como si te dijera “hazlo a tu manera”. Es muy personalizable
+y tiene una comunidad activa que lo mantiene vivo. Pero también noté que es más lento, especialmente 
+al abrirlo o trabajar con proyectos grandes. Lo que realmente aprendí es que no hay una única 
+herramienta perfecta para todos. Todo depende de lo que necesites: si buscas potencia, velocidad
+o flexibilidad. Esta actividad me ayudó a ver que elegir bien tu editor puede hacer que programar
+se sienta más cómodo, más fluido, y hasta más divertido. Al final, lo importante es que la herramienta
+se adapte a ti, y no al revés.
